@@ -3,12 +3,10 @@
 - 🕵🏻‍♂️ Apaixonado por Desenvolvimentos Web
 - 🚀 Estudante da RocketSeat
 
-<div align='center'>
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=raphabatistadev&theme=cobalt&hide_title=true&show_icons=true&hide_border=true&hide=contribs,prs&text_color=41efce&bg_color=303244&title_color=63697d&icon_color=d5d1ce)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphabatistadev&hide=TeX&layout=compact&theme=cobalt&hide_title=true&hide_border=true&&text_color=41efce&bg_color=303244&title_color=63697d)
+<div align="center">  
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=raphabatistadev&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="raphabatistadev github stats" /> 
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphabatistadev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
   
   <div style="display: inline_block"><br>
   <img align="center" alt="David-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
